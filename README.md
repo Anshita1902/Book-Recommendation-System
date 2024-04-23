@@ -4,8 +4,11 @@
 In today's vast sea of literature, readers often struggle to discover books that align with their interests and preferences. As a result, there is a growing demand for personalized book recommendation systems that can assist users in finding relevant and enjoyable reading material. The objective of this project is to develop a machine learning-based book recommendation system that can suggest books tailored to the individual tastes and preferences of users.
 
 # Data Description 
+
+We utilised three datasets namely:
+
 - **Dataset Link** https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
-Utilised three datasets namely:
+
 
 - **Users** 
 
