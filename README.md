@@ -35,8 +35,8 @@ expressed by 0.
 # Machine Learning Data Pipeline
 1. Data Preparation (Data Cleaning and Feature Engineering)
 2. Exploratory Data Analysis
-- Univariate Analysis on numeric and categorical features
-- Analysis from categorical variables
-3. Got top ten books as per ratings
-4. Content Based Filtering
-5. It uses Weighted average rating method
+   Univariate Analysis on numeric and categorical features
+   Analysis from categorical variables
+4. Got top ten books as per ratings
+5. Content Based Filtering
+6. It uses Weighted average rating method
